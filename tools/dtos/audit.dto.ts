@@ -1,4 +1,4 @@
-export class AuditModel {
+export class AuditDto {
   createdDate: Date;
   createdBy: string;
   lastModifiedDate: Date;
